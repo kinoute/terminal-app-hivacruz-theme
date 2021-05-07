@@ -4,7 +4,7 @@ The _hivacruz_ dark blue color scheme, for Apple Terminal app.
 
 ![](misc/colors.png)
 
-> Font used: Roboto Mono Medium Nerd Font Complete, 12px.
+> Font used: [Roboto Mono Medium Nerd Font Complete](https://github.com/ryanoasis/nerd-fonts/blob/master/patched-fonts/RobotoMono/Regular/complete/Roboto%20Mono%20Nerd%20Font%20Complete.ttf), 12px.
 
 ## Installation
 
