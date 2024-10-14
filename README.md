@@ -29,6 +29,7 @@ Download the latest [Hivacruz.terminal](Hivacruz.terminal) file from the GitHub 
 - iTerm2: https://github.com/kinoute/hivacruz-itermcolors
 - Nova: https://github.com/kinoute/hivacruz-nova-theme
 - Typora Theme: https://github.com/kinoute/typora-hivacruz-theme
+- Zed: https://github.com/kinoute/zed-hivacruz-theme
 
 ## Credits
 
